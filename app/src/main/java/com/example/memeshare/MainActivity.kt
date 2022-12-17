@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
 
 // Instantiate the RequestQueue.
         progressBar.visibility=View.VISIBLE
-        val url = "https://meme-api.herokuapp.com/gimme "
+        val url = "https://i.redd.it/f7ibqp1dmiv51.gif"
 
 // Request a string response from the provided URL.
         val jsonObjectRequest = JsonObjectRequest(
